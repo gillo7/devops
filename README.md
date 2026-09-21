@@ -7,3 +7,6 @@ Lab2 - This line tests the CI workflow
 [![LICENSE](https://img.shields.io/github/license/gillo7/devops.svg?style=flat-square)](https://github.com/gillo7/devops/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/gillo7/devops/all.svg?style=flat-square)](https://github.com/gillo7/devops/releases)
+ master
+
+![build](https://img.shields.io/github/actions/workflow/status/gillo7/devops/main.yml?branch=develop)
