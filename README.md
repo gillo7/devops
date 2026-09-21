@@ -1,0 +1,1 @@
+This is the README for the Software Engineering class project of Prof. Sim.
