@@ -8,4 +8,4 @@ Lab2 - This line tests the CI workflow
 
 [![Releases](https://img.shields.io/github/release/gillo7/devops/all.svg?style=flat-square)](https://github.com/gillo7/devops/releases)
 
-https://img.shields.io/github/actions/workflow/status/gillo7/devops/%2Fworkflows%2Fmain.yml?branch=develop
+[https://img.shields.io/github/actions/workflow/status/gillo7/devops/%2Fworkflows%2Fmain.yml?branch=develop]
