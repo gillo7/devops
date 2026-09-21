@@ -1,1 +1,3 @@
 This is the README for the Software Engineering class project of Prof. Sim.
+
+Lab2 - This line tests the CI workflow
